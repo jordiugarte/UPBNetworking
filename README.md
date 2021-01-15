@@ -1,6 +1,6 @@
-# upbnetworking
+# UPB Networking
 
-UPB Networking
+Mobile app for networking exclusively inside the Universidad Privada Boliviana.
 
 ## Getting Started
 
